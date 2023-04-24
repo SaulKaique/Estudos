@@ -60,6 +60,22 @@ top: 130px;
         }
 
 
+        .card4{
+            position: absolute;
+            width: 276px;
+            height: 300px;
+            left: 490px;
+            top: 130px;
+
+            border: 3px red solid;
+
+            text-align: center;
+            text-align-last: auto;
+
+        }
+
+
+
 
 
 
