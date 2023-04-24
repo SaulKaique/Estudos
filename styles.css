@@ -1,8 +1,16 @@
 
-#body{
+html{
+
+    height: 140%;
+
+}
+
+
+
+body{
 
     display: flex;
-
+background-image: linear-gradient(to bottom , rgb(139, 25, 139), rgb(66, 66, 72));
 
 
 }
@@ -12,6 +20,7 @@
 
 
 .card{
+    background-image: linear-gradient(to bottom , rgb(139, 25, 139), rgb(66, 66, 72));
 
     position: absolute;
 width: 276px;
@@ -30,6 +39,7 @@ top: 130px;
 
 
         .card2{
+            background-image: linear-gradient(to bottom , rgb(139, 25, 139), rgb(66, 66, 72));
             position: absolute;
             width: 276px;
             height: 300px;
@@ -44,7 +54,7 @@ top: 130px;
         }
 
         .card3{
-
+            background-image: linear-gradient(to bottom , rgb(139, 25, 139), rgb(66, 66, 72));
             position: absolute;
             width: 276px;
             height: 300px;
@@ -61,6 +71,7 @@ top: 130px;
 
 
         .card4{
+            background-image: linear-gradient(to bottom , rgb(139, 25, 139), rgb(66, 66, 72));
             position: absolute;
             width: 276px;
             height: 300px;
@@ -152,6 +163,19 @@ background: #E10000;
 .viagem{
 
         display: flex;
+
+
+}
+
+.frem{
+    padding: 70px;
+  
+}
+
+iframe{
+
+
+
 
 
 }
